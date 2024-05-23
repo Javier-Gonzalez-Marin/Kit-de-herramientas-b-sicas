@@ -4,6 +4,6 @@ Data Rescue es un software de recuperación de datos. Este software no solo es u
 
 B)Enlace de descarga
 
-[[DataRescue](https://www.prosofteng.com/download-data-rescue-6-windows)]
+[[DataRescue](https://www.prosofteng.com/windows-data-recovery)]
 
 c)Video explicativo
