@@ -12,6 +12,6 @@ CPU-Z para es un software gratuito que recopila información sobre algunos de lo
 
 B)Enlace de descarga
 
-[CPU-Z]([https://www.cpuid.com/softwares/cpu-z.html#install)]
+([https://www.cpuid.com/softwares/cpu-z.html#install)
 
 C.)Video explicativo
